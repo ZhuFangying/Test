@@ -10,7 +10,7 @@ public class LoginClass extends BaseClass {
     public void login() throws BusinessException{
         println(getString("input.username"));
         String username = input.nextLine();
-        println(getString("input.passwords"));
+        println(getString("input.password"));
         String password = input.nextLine();
 
         UserService userService = new UserServiceImpl();
