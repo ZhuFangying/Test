@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="ClothesSuperMarketSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ClothesSuperMarketSystem_jar</output-path>
+    <root id="root">
+      <element id="archive" name="ClothesSuperMarketSystem.jar">
+        <element id="module-output" name="ClothesSuperMarketSystem" />
+      </element>
+      <element id="library" level="project" name="xpp3-1.1.4-min" />
+    </root>
+  </artifact>
+</component>
